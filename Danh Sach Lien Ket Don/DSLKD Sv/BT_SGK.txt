@@ -1,0 +1,6 @@
+2001225035, Ngo Minh,Thuan, 2004, 2, 252652, Cau Truc Du Lieu, 2, 8.3, 7.0, 7.4, 263473, Ky Thuat Lap Trinh, 2, 9.0, 9.0, 9.0, 8.2
+2300572218, Ngo Minh,Hieu, 2002, 1, 252745, Ky Nang Ung Dung CNTT, 2, 8.0, 7.0, 7.3, 7.3
+6235325325, Nguyen Quoc,Thuan, 2004, 2, 252652, Cau Truc Du Lieu, 2, 8.3, 7.0, 7.4, 263473, Ky Thuat Lap Trinh, 2, 9.0, 9.0, 9.0, 8.3
+2300572218, Nguyen Van,Hieu, 2002, 1, 252745, Toan Cao Cap, 2, 8.0, 5, 5, 5
+3217433174, Nguyen Quoc,Chi, 2004, 2, 252652, Cau Truc Du Lieu, 2, 9.0, 9.0, 9.0, 263473, Lap Trinh C, 2, 9.0, 9.0, 9.0, 9.0
+5326501312, Nguyen Kim,Hoan, 2004, 2, 252652, Cau Truc Du Lieu, 2, 8.5, 7.0, 7.45, 263473, Xac Xuat Thong Ke, 2, 9.0, 10, 9.0, 8.6

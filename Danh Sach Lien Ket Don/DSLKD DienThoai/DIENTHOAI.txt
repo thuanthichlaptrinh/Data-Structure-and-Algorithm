@@ -1,0 +1,6 @@
+1, Iphone Xs, 30, 6000, 2
+2, Oppo F9, 5, 5000, 1
+3, Xiaomi Redmi Note 7, 40, 3500, 3
+4, Samsung s10, 10, 10000, 4
+5, Iphone 13 Pro, 0, 23000, 1
+6, Iphone 13 Pro, 10, 23000, 1

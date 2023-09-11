@@ -1,0 +1,24 @@
+Nguyen Van A
+20
+Truong phong
+Tp. HCM
+Tran Van C
+10
+Pho phong
+Tp. HCM
+Nguyen Van C
+9
+Nhan vien
+Can Tho
+Nguyen Van D
+11
+Nhan vien
+Can Tho
+Tran Van E
+9
+Nhan vien
+Binh Duong
+Tran Van F
+15
+Nhan vien
+Tien Giang
